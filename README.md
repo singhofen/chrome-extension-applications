@@ -18,3 +18,11 @@ This chrome extension allows you to navigate to your social media accounts & web
 ![image](https://user-images.githubusercontent.com/23155302/39667107-ec6a5ca4-507c-11e8-9c4f-cfbee2fb4e7d.png)
 
 ![image](https://user-images.githubusercontent.com/23155302/39667115-0c400ff6-507d-11e8-9df3-6375671fba5d.png)
+
+# Javascript tip gernerator
+
+When chrome extension is installed, every time a new tab is opened a JS tip will be displayed. User is able to click through JS tips until the Total of 11 tips has concluded- then refresh to keep going. Can enter more tips or have a loop to so tips will repeat. 
+
+![image](https://user-images.githubusercontent.com/23155302/39672377-25e54cee-50f7-11e8-82d5-a57053eafd82.png)
+
+
