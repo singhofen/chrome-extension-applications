@@ -25,4 +25,7 @@ When chrome extension is installed, every time a new tab is opened a JS tip will
 
 ![image](https://user-images.githubusercontent.com/23155302/39672377-25e54cee-50f7-11e8-82d5-a57053eafd82.png)
 
+![image](https://user-images.githubusercontent.com/23155302/39672446-25ac6536-50f8-11e8-9b5c-e312c022f2f9.png)
+
+![image](https://user-images.githubusercontent.com/23155302/39672451-3eca254e-50f8-11e8-9666-bfd81de91de2.png)
 
